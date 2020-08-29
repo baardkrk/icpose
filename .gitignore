@@ -1,3 +1,6 @@
 data/
+*/__pycache__/
+models/cifar_net.pth
+src/cifar/
 # Emacs temporary files
 *~
