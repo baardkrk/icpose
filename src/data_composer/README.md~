@@ -1,0 +1,4 @@
+# The Composer
+The composer creates batches of augmented datasets in real time. It is written for the Panoptic Studio dataset, and will not work on datasets that is not in the given file structure.
+
+The composer looks at the timing data for a given dataset, and extracts the 3D location for the joints of each person for each depth image. An average depth image is also extracted. 
